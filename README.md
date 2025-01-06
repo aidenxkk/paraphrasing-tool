@@ -8,7 +8,6 @@ Tools:
 vec2Text pretrained model.
 Semantic Autoencoder (SAE).
 Challenges
-Integrating the vec2Text pretrained model correctly.
 Matching the encoding method with the input format expected by the pretrained model.
-Ensuring robust performance across diverse inputs.
+Ensuring robust performance of the model structure. 
 Steps: encoder the sentence input to semantic embeddings - feed embeddings to model - decode the embeddings to sentence - repeat enough time to train the model for a specific similarity threshold. 
