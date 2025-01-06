@@ -1,4 +1,4 @@
-This project aims to design a paraphrasing tool for protecting user privacy by transforming English text inputs into paraphrased outputs while preserving the original meaning. It uses sentence embeddings as encoders. The tool also tries to improve zero-shot learning(ZSL) performance by using Semantic Autoencoder(SAE).  
+This project aims to design a paraphrasing tool for protecting user privacy by transforming English text inputs into paraphrased outputs while preserving the original meaning. It uses sentence embeddings as encoder. The tool also tries to improve zero-shot learning(ZSL) performance by using Semantic Autoencoder(SAE).  
 
 Project Components
 Target: Design a paraphrasing tool that safeguards user privacy by rephrasing English text while preserving its semantic meaning.
